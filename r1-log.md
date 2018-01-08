@@ -14,3 +14,14 @@ https://codepen.io/toddhcodetime/pen/dZqjby
 Also created this pen, to practice using JS for DOM manipulation to append html elements to the page, here:
 https://codepen.io/toddhcodetime/pen/aEVaJy?editors=1010
 Next I need to figure out how to post/send the message to twitter. Then will work on combining everything and styling.
+
+
+###R1:D3
+Continue work of freeCodeCamp project: Random Quote Generator.
+Review documentation to try to understand the API call and JSON.
+Tried two approaches:
+one using jQuery:
+https://codepen.io/toddhcodetime/pen/dZqjby
+one using Vanilla JS
+https://codepen.io/toddhcodetime/pen/ZvvQLW
+Will continue with the Vanilla JS.
