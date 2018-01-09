@@ -25,3 +25,7 @@ https://codepen.io/toddhcodetime/pen/dZqjby
 one using Vanilla JS
 https://codepen.io/toddhcodetime/pen/ZvvQLW
 Will continue with the Vanilla JS.
+
+###R1:D3
+Continue work of freeCodeCamp project: Random Quote Generator.
+Commenting code for the Vanilla JS used to make API call for random quote.
