@@ -16,7 +16,7 @@ https://codepen.io/toddhcodetime/pen/aEVaJy?editors=1010
 Next I need to figure out how to post/send the message to twitter. Then will work on combining everything and styling.
 
 
-###R1:D3
+###R1D3
 Continue work of freeCodeCamp project: Random Quote Generator.
 Review documentation to try to understand the API call and JSON.
 Tried two approaches:
@@ -26,6 +26,18 @@ one using Vanilla JS
 https://codepen.io/toddhcodetime/pen/ZvvQLW
 Will continue with the Vanilla JS.
 
-###R1:D3
+###R1D4, 
 Continue work of freeCodeCamp project: Random Quote Generator.
 Commenting code for the Vanilla JS used to make API call for random quote.
+
+
+
+###R1D5, 
+**Today's Progress**: Continued work on freeCodeCamp project: Random Quote Generator. 
+
+**Thoughts:** I spent some considerable time reviewing documentation to get the API call working and understand what was going on. I learned a lot and am looking forward to next stages of app development.
+
+**ToDo**: Add button and configure click event to make API call when clicke. Add button to tweet out quote. Style it.
+
+**Link to work:** [Random Quote Genertor](https://codepen.io/toddhcodetime/pen/MrQMOq)
+
