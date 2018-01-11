@@ -41,3 +41,12 @@ Commenting code for the Vanilla JS used to make API call for random quote.
 
 **Link to work:** [Random Quote Genertor](https://codepen.io/toddhcodetime/pen/MrQMOq)
 
+###R1D6, 
+**Today's Progress**: Continued work on freeCodeCamp project: Random Quote Generator. Working on eventListener to initiate call to API serving quotes when button is clicked.
+
+**Thoughts:** Incremental progress is being made. Only got in a little over an hour today, as I was starting coursework with Grow With Google program.
+
+**ToDo**: Continue work on buttons and styling.
+
+**Link to work:** [Random Quote Genertor](https://codepen.io/toddhcodetime/pen/MrQMOq)
+
